@@ -1,0 +1,20 @@
+:root{
+    --red:crimson;
+    --green:#53BF9D;
+    --yellow:#FFC54D;
+    --pink: #FFD1DA;
+    --white:whitesmoke;
+}
+
+body,h2{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainarea{
+    background-image:url('../media/restbg.jpg');
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    color:var(--white);
+}
